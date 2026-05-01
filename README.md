@@ -13,7 +13,6 @@
 🔭 I’m currently working on:  
 - News App with API integration for real-time articles.  
 - Movie App with modular layouts and dark/light themes.  
-- Preparing for Database Administration exam at Banque Misr.  
 
 👯 I’m looking to collaborate on:  
 - Exciting mobile and desktop application projects, especially those that push Flutter to the next level.  
@@ -65,7 +64,7 @@ When I’m not coding, I enjoy designing branding concepts and exploring creativ
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gergesfaiz)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gerges.faiz)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gergesfaiz)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2gergess)  
 
 ---
 

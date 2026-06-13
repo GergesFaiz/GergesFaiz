@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Gerges Faiz</span></h1>
-<h3 align="center">🚀 Full-stack Flutter Developer & UI/UX Designer</h3>
+<h3 align="center">🚀  Flutter Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer%20%7C%20UI%2FUX%20Designer;Preparing%20for%20Database%20Administration;Passionate%20about%20Clean%20Architecture%20and%20Branding&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />

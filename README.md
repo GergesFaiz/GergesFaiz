@@ -1,78 +1,93 @@
 <!-- Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Gerges Faiz</span></h1>
-<h3 align="center">🚀  Flutter Developer </h3>
+<h1 align="center">Gerges Faiz</h1>
+<h3 align="center">Flutter Developer · UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer%20%7C%20UI%2FUX%20Designer;Preparing%20for%20Database%20Administration;Passionate%20about%20Clean%20Architecture%20and%20Branding&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20clean%2C%20scalable%20cross-platform%20apps;Flutter%20%E2%80%A2%20Dart%20%E2%80%A2%20Firebase%20%E2%80%A2%20REST%20APIs;Clean%20Architecture%20%26%20thoughtful%20UI%2FUX&font=Fira%20Code&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000&color=00C6FF&size=22" alt="Building clean, scalable cross-platform apps" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerges-faiz-4133431b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/GergesFaiz?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
 </p>
 
 ---
 
-# 💫 About Me
-👋 Hi, I'm **Gerges Faiz**, a passionate **Flutter Developer & UI/UX Designer** with strong skills in modular app architecture and centralized styling.  
-🔭 I’m currently working on:  
-- News App with API integration for real-time articles.  
-- Movie App with modular layouts and dark/light themes.  
+## About Me
 
-👯 I’m looking to collaborate on:  
-- Exciting mobile and desktop application projects, especially those that push Flutter to the next level.  
+I'm a **Flutter Developer and UI/UX Designer** who builds cross-platform mobile applications with a focus on
+**clean architecture**, **modular code**, and **consistent, well-crafted interfaces**. I care about the full
+journey of a product — from the first design concept to a maintainable, production-ready codebase.
 
-🌱 I’m currently learning:  
-- Advanced Flutter techniques, API integration, and clean architecture patterns.  
-- SQL indexing, backup/recovery, and performance tuning.  
-
-💬 Ask me about:  
-- Flutter, Firebase integration, state management using Provider, and UI/UX best practices.  
-
-⚡ Fun fact:  
-When I’m not coding, I enjoy designing branding concepts and exploring creative app names.
+- **Mobile development:** Flutter & Dart apps with modular, feature-based structure
+- **Architecture:** Clean Architecture, separation of concerns, centralized theming and styling
+- **Integration:** REST APIs and Firebase
+- **State management:** Provider
+- **Design:** UI/UX design, light/dark theming, and branding
+- **Currently growing in:** Database administration — SQL indexing, backup & recovery, and performance tuning
 
 ---
 
-## 🧠 Languages & Tools
+## Featured Projects
+
+| Project | Description | Highlights |
+| :-- | :-- | :-- |
+| **News App** | A news reader that delivers real-time articles from a public news API. | REST API integration · real-time content · clean UI |
+| **Movie App** | A movie discovery app built on a modular, reusable layout system. | Modular layouts · light & dark themes · centralized styling |
+
+> More projects are available in my [repositories](https://github.com/GergesFaiz?tab=repositories).
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="45" title="Dart"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,git,github,vscode&perline=7" alt="Flutter, Dart, Firebase, MySQL, Git, GitHub, VS Code" />
+</p>
+
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Dart, SQL |
+| **Frameworks** | Flutter |
+| **Backend & Data** | Firebase, REST APIs, MySQL |
+| **State Management** | Provider |
+| **Design** | UI/UX, Branding |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+## Currently Focused On
+
+- Advanced Flutter patterns and scalable Clean Architecture
+- Robust API integration and error handling
+- Database administration: SQL indexing, backup & recovery, and performance tuning
+
+**Open to collaboration** on mobile and desktop applications — especially projects that push Flutter further.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GergesFaiz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GergesFaiz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GergesFaiz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GergesFaiz/GergesFaiz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GergesFaiz/GergesFaiz/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/GergesFaiz/GergesFaiz/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=GergesFaiz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GergesFaiz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GergesFaiz&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Let's Connect
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GergesFaiz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 💻 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerges-faiz-4133431b5/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gerges.faiz.7/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2gergess)  
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GergesFaiz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=GergesFaiz&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm always happy to talk about Flutter, app architecture, and UI/UX.
+The best way to reach me is on [**LinkedIn**](https://www.linkedin.com/in/gerges-faiz-4133431b5/).
